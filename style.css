@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Muli', sans-serif;
+  font-family: "Muli", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -61,17 +61,3 @@ body {
     display: none;
   }
 }
-Rodapé
-© 2022 GitHub, Inc.
-Navegação no rodapé
-Termos
-Privacidade
-Segurança
-Status
-Documentos
-Entre em contato com o GitHub
-Preços
-API
-Treinamento
-Blog
-Sobre
