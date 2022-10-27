@@ -1,4 +1,4 @@
-# Projedo - Dia 1
+# Projeto - Dia 1
 
 ![preview](./.github/preview.png)
 
